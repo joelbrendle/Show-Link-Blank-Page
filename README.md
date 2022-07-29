@@ -1,15 +1,15 @@
 # Show Link Blank Page
 
-# What's this addon for?
+## What's this addon for?
 
 It shows a little information box if you hover over an <a>-link which contains the target _blank
 
-# Why???
+## Why???
 
 Just a little experiment for myself to test the firefox extension api and just idk :D
 Feel free to contribute
 
-# Where can i find this crab?
+## Where can i find this crab?
 
 Weirdly the firefox team accepted my first attempt to publish this addon on their extensions marketplace
 
